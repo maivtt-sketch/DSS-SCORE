@@ -3,6 +3,8 @@ The DSS score predicts risk of dengue shock syndrome in adults, based on the per
 
 **Usage**
 
+Download `DSS_Score.xlsx` from this repository.
+
 **Input: **
 
 HCT today and HCT yesterday
